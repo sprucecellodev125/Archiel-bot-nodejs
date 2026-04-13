@@ -1,0 +1,34 @@
+{
+  "name": "archiel-bot-nodejs",
+  "version": "1.0.0",
+  "description": "Menyapa dengan anomali termasuk archiel.",
+  "keywords": [
+    "['discord'",
+    "'self-bot'",
+    "'discord-selfbot'",
+    "'nodejs']"
+  ],
+  "homepage": "https://github.com/cakrayp/Archiel-bot-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/cakrayp/Archiel-bot-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cakrayp/Archiel-bot-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Cakra Yudha Pratama",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "dotenv": "^17.4.2",
+    "fs": "^0.0.1-security",
+    "util": "^0.12.5"
+  }
+}
